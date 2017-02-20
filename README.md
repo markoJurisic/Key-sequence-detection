@@ -1,2 +1,2 @@
 # Key-sequence-detection
-Type 'secret' to invoke JS function
+Type 'secret' to trigger style changes.
